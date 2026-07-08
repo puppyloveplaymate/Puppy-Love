@@ -37,5 +37,5 @@ Puppy Love is not intended for individuals under the age of 18. We do not knowin
 
 ## 6. Contact Us
 If you have questions about this policy, please contact us:
-**Email:** privacy@puppylove.app
+**Email:** Puppyloveplaymate@gmail.com
 
