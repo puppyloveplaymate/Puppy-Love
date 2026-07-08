@@ -2,7 +2,7 @@
 
 **Last Updated: July 7, 2026**
 
-Puppy Love ("we," "us," or "our") is dedicated to protecting your privacy and the safety of our canine community. This Privacy Policy describes how we collect, use, and handle your data when you use the Puppy Love mobile application.
+Puppy Love ("we," "us," or "our") is dedicated to protecting your privacy and the safety of our canine community. This Privacy Policy describes how we collect, use, and handle your data when you use our app.
 
 ## 1. Data We Collect
 To provide a social experience for you and your dog, we collect the following information:
@@ -30,7 +30,11 @@ We use trusted third-party providers to power specific app features:
 ## 4. Your Rights & Data Control
 * **Access & Edit:** You can update your profile and dog's info directly in the app.
 * **Location Control:** You can enable or disable location permissions at any time via system settings.
-* **Account Deletion:** You can delete your account and all associated data (profiles, photos, chats) from the Profile screen. This action is permanent.
+* **Data Deletion:** You can delete some or all of your data directly within the app, including:
+  * Individual photos and profile information
+  * Chat messages and communication history
+  * Your dog's profile and associated data
+* **Account Deletion:** You can delete your entire account and all associated data (profiles, photos, chats) from the Profile screen. This action is permanent and cannot be undone.
 
 ## 5. Children's Privacy
 Puppy Love is not intended for individuals under the age of 18. We do not knowingly collect data from minors.
